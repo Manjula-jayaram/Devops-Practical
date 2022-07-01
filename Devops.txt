@@ -1,3 +1,4 @@
-Manjula
-Bangalore
-JNC
+Name- Manjula
+Locatio- Bangalore
+Collage - JNC
+Background - BCA 
