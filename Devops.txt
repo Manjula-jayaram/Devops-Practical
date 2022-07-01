@@ -1,4 +1,5 @@
 Name- Manjula
 Locatio- Bangalore
 Collage - JNC
-Background - BCA 
+Qualification - BCA 
+Employee - Techstar
