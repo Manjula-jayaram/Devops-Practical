@@ -3,3 +3,5 @@ Locatio- Bangalore
 Collage - JNC
 Qualification - BCA 
 Employee - Techstar
+Employee type - permanent
+job role - IT Recruiter
