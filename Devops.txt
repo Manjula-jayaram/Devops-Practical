@@ -1,4 +1,5 @@
-Manjula
-Bangalore
-JNC
-add a line
+Name- Manjula
+Locatio- Bangalore
+Collage - JNC
+Qualification - BCA 
+Employee - Techstar
